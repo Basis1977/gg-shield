@@ -2,7 +2,7 @@ name: Application Main Branch
 
 on:
   push:
-    branches:
+    branches: 
       - 'main'
     tags-ignore:
       - '*'
